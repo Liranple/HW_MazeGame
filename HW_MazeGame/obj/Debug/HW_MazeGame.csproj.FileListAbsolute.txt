@@ -1,0 +1,6 @@
+C:\Users\huichan\Desktop\source\repos\HW_MazeGame\HW_MazeGame\bin\Debug\HW_MazeGame.exe.config
+C:\Users\huichan\Desktop\source\repos\HW_MazeGame\HW_MazeGame\bin\Debug\HW_MazeGame.exe
+C:\Users\huichan\Desktop\source\repos\HW_MazeGame\HW_MazeGame\bin\Debug\HW_MazeGame.pdb
+C:\Users\huichan\Desktop\source\repos\HW_MazeGame\HW_MazeGame\obj\Debug\HW_MazeGame.csprojAssemblyReference.cache
+C:\Users\huichan\Desktop\source\repos\HW_MazeGame\HW_MazeGame\obj\Debug\HW_MazeGame.exe
+C:\Users\huichan\Desktop\source\repos\HW_MazeGame\HW_MazeGame\obj\Debug\HW_MazeGame.pdb
