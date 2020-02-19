@@ -10,8 +10,8 @@ namespace HW_MazeGame
     {
         static void Main(string[] args)
         {
-            Console.SetWindowSize(60, 21);
-            new MazeMap().PrintMaze();
+            Console.SetWindowSize(60, 25);
+            new MazeMap().Start();
 
         }
     }
